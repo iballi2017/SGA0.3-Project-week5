@@ -28,7 +28,6 @@ input-placeholder {
 	width :70px;  /*#### */
 	height :60px;  /*#### */
 	background-color:#00f;
-	opacity: 0.5;
 }
 .display{
 	background-color:#ccc;
@@ -48,7 +47,6 @@ input-placeholder {
 	width :310px;
 	height :60px; /*#### */
 	background-color:#00f;
-	opacity: 0.5;
 }
 </style>
 <script type="text/javascript">
